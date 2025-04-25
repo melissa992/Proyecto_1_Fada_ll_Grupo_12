@@ -81,7 +81,7 @@ def calcular_resultados():
         # Guardar automáticamente
         carpeta_salida = "resultados"
         if not os.path.exists(carpeta_salida):
-            os.makedirs(carpeta_salida) 
+            os.makedirs(carpeta_salida)
 
         nombre_archivo_entrada = os.path.basename(archivo_entrada)
         nombre_salida = os.path.splitext(nombre_archivo_entrada)[0] + f"_{algoritmo.replace(' ', '_')}_resultados.txt"
@@ -201,6 +201,7 @@ def mostrar_grafica_resultados(estrategia, conflicto, esfuerzo, tiempo_total):
 
     except Exception as e:
         messagebox.showerror("Error", f"No se pudo mostrar la gráfica de resultados: {str(e)}")
+
 
 # ---------------- CONFIGURACIÓN DE LA INTERFAZ ---------------- #
 
