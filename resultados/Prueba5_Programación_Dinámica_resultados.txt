@@ -1,0 +1,10 @@
+=== Algoritmo Utilizado: Programación Dinámica ===
+
+CI: 14369.0
+Esfuerzo: 456
+mod0: 2
+mod1: 0
+mod2: 4
+mod3: 0
+mod4: 4
+Tiempo total de ejecucion: 0.0059 segundos

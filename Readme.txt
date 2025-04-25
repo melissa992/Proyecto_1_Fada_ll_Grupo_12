@@ -1,3 +1,9 @@
+Integrantes Grupo 12:
+
+Angie Melissa Ocoro Hurtado - 2310176
+Juan Camilo López Quintana - 2310177
+Juan Manuel Perea Coronado - 1926462
+Yenny Margot Rivas Tello - 2182527
 README - Moderando el conflicto interno de opiniones en una red social
 Descripción del Proyecto
 Este proyecto es parte del curso de "Análisis y Diseño de Algoritmos II" de la Escuela de Ingeniería de Sistemas y Computación. El objetivo es aplicar técnicas de diseño de algoritmos (fuerza bruta, voraz y programación dinámica) para moderar el extremismo de opiniones en una red social, reduciendo la polarización de opiniones de los usuarios.
