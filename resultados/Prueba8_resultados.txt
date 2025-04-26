@@ -1,0 +1,13 @@
+CI: 21948.90000000001
+Esf: 954
+mod0: 0
+mod1: 1
+mod2: 6
+mod3: 1
+mod4: 0
+mod5: 0
+mod6: 8
+mod7: 10
+mod8: 0
+mod9: 7
+Tiempo total de ejecución: 0.1195 segundos

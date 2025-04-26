@@ -1,0 +1,20 @@
+=== Algoritmo Utilizado: Voraz ===
+
+CI: 107169.8
+Esfuerzo: 732
+mod0: 3
+mod1: 0
+mod2: 0
+mod3: 1
+mod4: 0
+mod5: 1
+mod6: 0
+mod7: 0
+mod8: 0
+mod9: 0
+mod10: 1
+mod11: 0
+mod12: 0
+mod13: 0
+mod14: 1
+Tiempo total de ejecución: 0.0001 segundos

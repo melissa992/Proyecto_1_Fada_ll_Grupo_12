@@ -1,0 +1,13 @@
+CI: 18433.0
+Esf: 817
+mod0: 0
+mod1: 1
+mod2: 3
+mod3: 0
+mod4: 1
+mod5: 0
+mod6: 1
+mod7: 3
+mod8: 0
+mod9: 6
+Tiempo total de ejecución: 0.0001 segundos

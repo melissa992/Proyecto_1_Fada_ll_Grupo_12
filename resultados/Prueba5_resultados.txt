@@ -1,0 +1,8 @@
+CI: 14369.0
+Esf: 456
+mod0: 2
+mod1: 0
+mod2: 4
+mod3: 0
+mod4: 4
+Tiempo total de ejecución: 0.0060 segundos
